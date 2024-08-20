@@ -2,7 +2,7 @@
 
 meu nome é Douglas Antonio Effgen
 
--  Estou estudando na Alura
+-  Estou estudando na [Alura](https://www.alura.com.br)
 -  Estou me desenvolvendo na linguagem JavaScript
 -  Utilizo esse espaço para mim organização e compartilhado dos meus projetos desenvolvido
 
@@ -10,6 +10,6 @@ meu nome é Douglas Antonio Effgen
 
 -  douglas.effgen@escola.pr.gov.br
 -  
--  toperaBR
+  @toperaBR
 
-  (https://media1.tenor.com/m/FsXl8tF5-_cAAAAd/terry-crews-cool.gif)
+![](https://media1.tenor.com/m/FsXl8tF5-_cAAAAd/terry-crews-cool.gif)
